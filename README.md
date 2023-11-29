@@ -7,11 +7,11 @@ The dataset used to train this model can be find [here](https://www.robots.ox.ac
 
 Here are some examples of the Flower images:
 
-#### Flower Images
+### Flower Images
 
 ![Flowers](assets/Flowers.png)
 
-#### Inference
+### Inference
 
 ![Inference](assets/inference_example.png)
 ## Tech Stack
