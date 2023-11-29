@@ -53,6 +53,7 @@ Other optional agruments can be passed, run` python train.py --help` to get argu
 
 
 
+
 To run `predict.py` execute the following command
 ```bash
   python predict.py --image_path <path to image for prediction>
@@ -60,15 +61,5 @@ To run `predict.py` execute the following command
 other optional agruments can be passed, run` python predict.py --help` to get arguments
 
 
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
 
 
